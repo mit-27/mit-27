@@ -19,8 +19,8 @@ Hello !! I'm Mit Suthar. I recently completed my B.Tech in Computer Engineering 
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/mit-27/Recruitment-Process-Management">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mit-27&repo=Recruitment-Process-Management&theme=prussian" />
+<a href="https://github.com/mit-27/AlgoShare">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mit-27&repo=AlgoShare&theme=prussian" />
 </a>
 
 <a href="https://github.com/mit-27/Recruitment-Android-App">
