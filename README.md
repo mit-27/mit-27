@@ -1,4 +1,4 @@
-## Bonjour, I'm [Mit Suthar!](https://portfolio-mit-27.vercel.app/) 👋
+## Bonjour, I'm [Mit Suthar!](https://portfolio-ohkjgc2qd-mit-27.vercel.app/) 👋
 
 Hello !! I'm Mit Suthar. I recently completed my B.Tech in Computer Engineering from the Computer Engineering Department of Chandubhai S Patel Institute of Technology, CHARUSAT, Anand with Distinction. I am a React Native Developer and Web developer. I love to build new stuff. I had worked with C, Python, PHP, C++, Java, C#.Net, JavaScript, jQuery, ReactJS, GatsbyJS, and Unity. I've built web and mobile apps. My goal is to secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.
 
