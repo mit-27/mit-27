@@ -29,7 +29,11 @@ Hello !! my name is Mit Suthar and currently, I am pursuing a master’s degree 
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
+<be>
+
+  
+[![mit-27's GitHub | Stats](https://stats.quine.sh/mit-27/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mit-27)
+
 
 <a href="https://github.com/mit-27/">
   <img src="https://github-readme-stats.vercel.app/api?username=mit-27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
