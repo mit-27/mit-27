@@ -1,6 +1,6 @@
-## Bonjour, I'm [Mit Suthar!](https://www.mitsuthar.me/) 👋
+## Bonjour, I'm Mit Suthar 👋
 
-Hello !! my name is Mit Suthar and currently, I am pursuing a master’s degree in Applied Computer Science at Concordia University, Montreal. I have a great interest in exploring the field of mobile application development and web development. Apart from that, I love to participate in various hackathons where I could solve real-world problems and I have won two hackathons. I am curious to work in the tech world and tech fraternity as an employee in any of the good tech companies. Along with this, I have the ability to work under demanding and stressful situations. I can make decisions on my own, but I also consider and respect valuable opinions.
+Hello !! my name is Mit Suthar and currently, I graduated with a master’s degree in Applied Computer Science at Concordia University, Montreal. I have a great interest in exploring the field of mobile application development and web development. Apart from that, I love to participate in various hackathons where I can solve real-world problems and I have won two hackathons. I am curious to work in the tech world and tech fraternity as an employee in any of the good tech companies. Along with this, I can work under demanding and stressful situations. I can make decisions on my own, but I also consider and respect valuable opinions.
 
 ## 🙋‍♂️ Let's Connect
 
@@ -35,9 +35,6 @@ Hello !! my name is Mit Suthar and currently, I am pursuing a master’s degree 
 [![mit-27's GitHub | Stats](https://stats.quine.sh/mit-27/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mit-27)
 
 
-<a href="https://github.com/mit-27/">
-  <img src="https://github-readme-stats.vercel.app/api?username=mit-27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mit-27&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a>
 
